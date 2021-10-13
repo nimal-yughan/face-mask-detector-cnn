@@ -1,7 +1,7 @@
 # Face Mask Detector using CNN
 Face mask detection through images and real-time video streams using based on MobileNetV2 architecture.
 
-Only the base model of MobileNetV2 is used for transfer learning approach.
+Only the base model of Inception V3 is used for transfer learning approach.
 
 Teammates: Sai Krishna, Shreya
 
