@@ -1,5 +1,5 @@
 # Face Mask Detector using CNN
-Face mask detection through images and real-time video streams using based on MobileNetV2 architecture.
+Face mask detection through images and real-time video streams using based on Inception v3 architecture.
 
 Only the base model of Inception V3 is used for transfer learning approach.
 
